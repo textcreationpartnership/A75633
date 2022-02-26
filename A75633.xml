@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles and charge proved in Parliament against Doctor Walton, minister of St. Martins Orgars in Cannon street. VVherein his subtile tricks, and Popish innovations are discovered; as also the consultations, and assistance he hath had therein by the Archbishop of Canterbury, the Bishop of Rochester, Mr. Brough, and Mr. Baker to effect the same. As also his impudence in defaming the honourable members of the House of Commons, by scandalous aspersions and abusive language.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75633</idno>
+            <idno type="STC">Wing A3809</idno>
+            <idno type="STC">Thomason E173_11</idno>
+            <idno type="STC">ESTC R14741</idno>
+            <idno type="EEBO-CITATION">99859729</idno>
+            <idno type="PROQUEST">99859729</idno>
+            <idno type="VID">111825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111825)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles and charge proved in Parliament against Doctor Walton, minister of St. Martins Orgars in Cannon street. VVherein his subtile tricks, and Popish innovations are discovered; as also the consultations, and assistance he hath had therein by the Archbishop of Canterbury, the Bishop of Rochester, Mr. Brough, and Mr. Baker to effect the same. As also his impudence in defaming the honourable members of the House of Commons, by scandalous aspersions and abusive language.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term>Walton, Brian, 1600-1661 --  Early works to 1800.</term>
+               <term>Saint Martin Orgars Church (London, England) --  Early works to 1800.</term>
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111825:1" rendition="simple:additions"/>
+            <p>THE ARTICLES AND CHARGE PROVED IN PAR<g ref="char:EOLhyphen"/>LIAMENT AGAINST <hi>Doctor Walton,</hi> Miniſter of St. <hi>Martins Orgars</hi> in Cannon ſtreet.</p>
+            <p>Wherein his ſubtile tricks, and popiſh Innovations are diſcovered; as alſo the conſultations, and aſſiſtance he hath had therein by the Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> the Biſhop of <hi>Rocheſter,</hi> Mr. <hi>Brough,</hi> and Mr. <hi>Baker</hi> to effect the ſame.</p>
+            <p>As alſo his impudence in defaming the Ho<g ref="char:EOLhyphen"/>nourable members of the houſe of Commons, by ſcandalous aſperſions and abu<g ref="char:EOLhyphen"/>ſive language.</p>
+            <p>LONDON, Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:111825:2"/>
+            <pb n="1" facs="tcp:111825:2"/>
+            <head>To the Honourable the houſe of Commons aſſembled in Parliament. The humble Petition of the Pariſhioners of St. <hi>Martins Orgar London,</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Vmbly beſeecheth this ho<g ref="char:EOLhyphen"/>nourable Aſſembly, to take into their ſerious and religi<g ref="char:EOLhyphen"/>ous conſideration, your pe<g ref="char:EOLhyphen"/>titioners extream ſufferings, by the violence and wrongs done unto them, by <hi>Bryan Walton</hi> Doctor in Divinity their Parſon, but a man of an un<g ref="char:EOLhyphen"/>quiet and unpeaceable carriage, making dif<g ref="char:EOLhyphen"/>ferences with his Pariſhioners, both by the new way of officiating in his Function to the ſcandall &amp; offence of many, and his eager pro<g ref="char:EOLhyphen"/>ſecution of ſuch of his Pariſhioners as are not of his party and opinion, and alſo by his greedy and covetous gaining into his power by indi<g ref="char:EOLhyphen"/>rect meanes the diſpoſition of a great part of the Rents and proffits of the Church lands,
+<pb n="2" facs="tcp:111825:3"/> which are directed for other imployment, whoſe turbulent courſes, and troubleſome cariage is ſuch, that your Petitioners have but little comfort from him for matter of conſci<g ref="char:EOLhyphen"/>ence, nor quiet in their temporall eſtate and abiding.</p>
+            <p n="1">1 That the ſaid Doctor <hi>Walton</hi> about the end of <hi>March</hi> 1637. did in deſpight and malice toward divers of his Pariſhioners, whom he knew well would be troubled at it, repaire to the ſaid Church of St. <hi>Martins Orgar,</hi> ac<g ref="char:EOLhyphen"/>companied, for the better countenancing of his unlawfull act, with Mr. Doctor <hi>Warner,</hi> now Lord Biſhop of <hi>Rocheſter,</hi> Doctor <hi>Brough,</hi> and Doctor <hi>Baker,</hi> together alſo with two other men, whoſe names your Petitio<g ref="char:EOLhyphen"/>ners have learned to be <hi>Hayward</hi> and <hi>Smith,</hi> and then ſent for Mr. <hi>Gore</hi> then Churchwar<g ref="char:EOLhyphen"/>den, who being come, they commanded him in the Kings name, &amp; in the name of the Lord Archbiſhops grace of <hi>Canterbury,</hi> forthwith to take the Communion Table, which then ſtood in the midſt of the Chancell compaſſed in on all ſides with a very faire raile, and to ſet it, and mount it up under the Eaſt win<g ref="char:EOLhyphen"/>dow in forme of an Altar; Mr. <hi>Gore</hi> for that
+<pb n="3" facs="tcp:111825:3"/> they made ſhew to come with authority, de<g ref="char:EOLhyphen"/>ſired to have ſight of their warrant, No, they had it, but he ſhould not ſee it; Whereupon Mr. <hi>Gore</hi> did deny to obey their Command; then came Doctor <hi>Warner</hi> to the Table in a ryotous way, and calling to the reſt to helpe him, they together tooke hold of the Table, lifted it over the Railes, and carried and placed it under the Eaſt window; And the ſaid Do<g ref="char:EOLhyphen"/>ctor <hi>Walton</hi> threatned the ſaid Mr. <hi>Gore,</hi> that if he ſhould cauſe the Table to be removed backe againe to the place where it did ſtand, that he ſhould be puniſhed for it in the high Commiſſion court; Whereof Mr. <hi>Gore</hi> being fearfull, knowing well the malice of the man, ſuffered it to ſtand where the ſaid Doctor had placed it, and where it now ſtands raiſed up with ſeverall aſcents and degrees in the faſhi<g ref="char:EOLhyphen"/>on of an Altar, to the ſcandall and diſcontent<g ref="char:EOLhyphen"/>ment of the Pariſhioners, whom he cauſeth to come thither to receive the Sacrament; And for the morning ſervice, part thereof he reades, or cauſeth to be read in the uſuall read<g ref="char:EOLhyphen"/>ing pew, and thereof all that are preſent may be partakers, a ſecond part hee carries with him to the Altar where it is read, but ſo that
+<pb n="4" facs="tcp:111825:4"/> a great part of his pariſhioners ſcarce heare more then a ſound or noiſe, and in ſtead ther<g ref="char:EOLhyphen"/>of their eyes obſervations are taken up with his lowly incurvation and bowing towards the Altar, which he often uſeth, and untill the Sermon be ended, his Curates ſtation is appointed to be at the Altar in his Surplice, and then concludes with a third part of Service.</p>
+            <p n="2">2. The ſaid Doctor hath refuſed to admi<g ref="char:EOLhyphen"/>niſter the ſacrament of Baptiſme to Infants, who have been preſented in the Church for that purpoſe, on the holy day before divine Service, though hee hath beene before-hand made acquainted therewith and deſired; For what cauſe your Petitioners know not, other then that their parents were not in his fa<g ref="char:EOLhyphen"/>vour.</p>
+            <p n="3">3. Hee neither preacheth nor catechiſeth on Sundayes in the afternoones, nor will per<g ref="char:EOLhyphen"/>mit the Petitioners to procure a Preacher, though at their owne charge, yet he puts in<g ref="char:EOLhyphen"/>to an account which he makes in the ſpiri<g ref="char:EOLhyphen"/>tuall Court twenty pounds for afternoones Sermons, which is allowed him there, he is non-reſident all the Summer, and commits
+<pb n="5" facs="tcp:111825:4"/> the charge of your Petitioners ſoules to an ig<g ref="char:EOLhyphen"/>norant Curate, maintaining him no other<g ref="char:EOLhyphen"/>wiſe then with a ſalary catched out of the Revenue of the Pariſh-lands, which he doth in this manner, wherein alſo lieth another grievance. One <hi>William Cromer</hi> Knight, 10. <hi>H.</hi> 6. gave divers Tenements in <hi>London</hi> to God, and the ſaid Church, and to <hi>Iohn Nicholl</hi> then Parſon and his ſucceſſours for ever, to find therewith a Chaplaine to pray for his ſoule, and to keepe an Anniverſary, and the reſi<g ref="char:EOLhyphen"/>due to repaire the Church and Ornaments, which Tenements by reaſon of the ſuper<g ref="char:EOLhyphen"/>ſtitious uſe aforeſaid were ſeized into the hands of <hi>E.</hi> 6. upon the Statute of Chantries, and granted away. Theſe lands of late yeares, at the great charge and labour of the Pariſhio<g ref="char:EOLhyphen"/>ners, have bin recovered by Iudgement upon Argument in the Kings Bench, and for main<g ref="char:EOLhyphen"/>tenance of that ſuit the Pariſh hath beene for<g ref="char:EOLhyphen"/>ced to ſell other houſes; It fortuned that neere about the end of this ſuite the Doctor comes to be Parſon there, And then as if the lands were all his owne, he falls to letting of Lea<g ref="char:EOLhyphen"/>ſes, and taking Fines, which he puts into his owne purſe. This wrong to the Pariſh, oc<g ref="char:EOLhyphen"/>caſioned
+<pb n="6" facs="tcp:111825:5"/> a ſuit with him in his Majeſties high court of Chancerie; Where upon hearing, a re<g ref="char:EOLhyphen"/>ference was made to Sir <hi>Edward Littleton</hi> then Solicitour generall, now Lord chiefe Iuſtice of the Common-Pleas, and to Mr. <hi>Chute</hi> being then the Counſell on both ſides to ſettle the buſineſſe, who not onely allowed the Do<g ref="char:EOLhyphen"/>ctor to goe away with the Fines he had taken by making Leaſes at undervalues of the hou<g ref="char:EOLhyphen"/>ſes recovered at the pariſh charges, but giving faith to an Affidavit by him then made of a bill of great disburſments out of his owne purſe expended in the recovery of the ſaid houſes, gave allowance of them alſo, &amp; upon their report to the Court a Decree was paſſed, and now he takes &amp; receives all the rents and proffits to his owne uſe, accompts not at all to the Pariſh, but keepes them ſtrangers to all, as if it concern'd them not: Whereas the Decree allowes charges to your Petitioners aſwell as to him, and directs that <hi>de futuro,</hi> in the Leaſes that ſhould bee made, the Churchwardens for the time being ſhould be named, and though the Rents are directed to be made paiable to the Doctor and his ſuc<g ref="char:EOLhyphen"/>ceſſours, yet they are to be delivered over to
+<pb n="7" facs="tcp:111825:5"/> remaine in the hands of the Churchwardens, for the reimburſing the pariſhioners their charges expended about the recovery of the ſaid Lands, and the reſt to be employed by the Parſon and Churchwardens, for the perfor<g ref="char:EOLhyphen"/>mance of the charitable uſes aforeſaid, ap<g ref="char:EOLhyphen"/>pointed by the Will of the ſaid <hi>Cromer;</hi> Thus it ſtands decreed; And the ſaid Doctour, though this Decree is made by his own con<g ref="char:EOLhyphen"/>ſent, and is ſo expreſſed in the very De<g ref="char:EOLhyphen"/>cree, finds this way to elude it; He makes his addreſſe by Petition to the Lord Archbiſhops grace of <hi>Canterbury,</hi> and prayes that hee might retaine in his hands forty markes <hi>per annum</hi> without accompt, and that twenty pounds <hi>per annum</hi> onely might bee allowed towards the repaire of the ſaid Church, and for Orna<g ref="char:EOLhyphen"/>ments and other uſes; Vpon this petition an Act is made by Sir <hi>Iohn Lambe,</hi> directed by his Grace, and entred into a Regiſtry, whereby Mr. Doctor <hi>Waltons</hi> deſire is accompliſhed, and the Pariſh deprived of ſo much, and the Decree in Chancery made fruſtrate; And by this contrivance and device, againſt Law, a<g ref="char:EOLhyphen"/>gainſt the Will of the Donor, and againſt the Decree in Chancery, the ſaid Parſon hath
+<pb n="8" facs="tcp:111825:6"/> wrought and procured for himſelfe and his Succeſſours the Tenements aforeſaid, which out of Leaſe are worth above two hundred pounds <hi>per annum,</hi> whereby your Petitioners are defeated of their charges, and the Church of its right, and in ſuch a way as is without preſident or example, all which the Petitio<g ref="char:EOLhyphen"/>ners can make plainly appeare by the De<g ref="char:EOLhyphen"/>cree in Chancery, and the Petition of the ſaid Doctor, and order of the ſaid Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury,</hi> and by his unjuſt ac<g ref="char:EOLhyphen"/>compts made in the Eccleſiaſticall Courts, wherein all his demands are allowed, ready to be produced to this honourable Aſſembly: And that poſterity may bee the more decei<g ref="char:EOLhyphen"/>ved, he hath taken the boldneſſe, as if it were a thing of undeniable truth, to aſſume to him<g ref="char:EOLhyphen"/>ſelfe the title of recovering the poſſeſſions of the Church, and hath cauſed this untrue In<g ref="char:EOLhyphen"/>ſcription to be ſet up in the Eaſt window o<g ref="char:EOLhyphen"/>ver the Altar, <hi>(viz.)</hi> Sir <hi>William Cromer</hi> Knight <hi>Anno</hi> 1431. gave to the Parſon of this Church and his Succeſſors for ever, all his lands and tenements in the pariſhes of St. <hi>Swithin</hi> and St. <hi>Olaves</hi> Hart-ſtreet <hi>London,</hi> towards the dai<g ref="char:EOLhyphen"/>ly Celebration of divine Service, and reparati<g ref="char:EOLhyphen"/>on
+<pb n="9" facs="tcp:111825:6"/> of this Church and Chancell, and the Or<g ref="char:EOLhyphen"/>naments thereof, which lands being taken a<g ref="char:EOLhyphen"/>way the firſt of <hi>E.</hi> 6. were in part recovered to the ſaid Church, for the ſaid uſes, by the ſaid <hi>Brian Walton</hi> now Incumbent, and with the profits thereof this Church and Chancell were repaired, <hi>Anno Dom.</hi> 1637. and over that Inſcription the ſaid <hi>Brian Walton</hi> hath ſet his owne Armes and the ſaid <hi>Cromers,</hi> and gives the charge thereof in accompt in the ſpirituall Court, to be allowed out of the rents of the ſaid Church lands.</p>
+            <p n="4">4. The ſaid Doctor not content with the uſuall Tythes of the Pariſh which have been paid according to the Statute, to gaine an Aug<g ref="char:EOLhyphen"/>mentation of 2<hi rend="sup">s</hi>. 9<hi rend="sup">d</hi>. in the pound, according to the very valew of mens houſes, he hath preferred ſeverall Petitions to the King, and to the Lord Major of <hi>London,</hi> and commen<g ref="char:EOLhyphen"/>ced ſeverall ſuites in the Eccleſiaſticall Courts, and very lately <hi>(viz.)</hi> upon the ſixteenth of <hi>No<g ref="char:EOLhyphen"/>vember</hi> 1640. preferred his bils in Chancery againſt one of the Pariſhioners for the ſaid 2. ſhillings 9. pence in the pound, and formerly preferred a bill there, and never proceeded therein, meerely to vex and weary out the Pe<g ref="char:EOLhyphen"/>titioners,
+<pb n="10" facs="tcp:111825:7"/> making them to forſake their dwel<g ref="char:EOLhyphen"/>lings; Hee exacteth with threatnings tythes of many poore people, and of ſuch as receive the almes of the Pariſh, and yet hath another Benefice of 200. pounds <hi>per annum,</hi> or there<g ref="char:EOLhyphen"/>about, in <hi>Eſſex.</hi>
+            </p>
+            <p n="5">5. Hee turmoileth the Petitioners with In<g ref="char:EOLhyphen"/>formations and Excommunications, proſe<g ref="char:EOLhyphen"/>cuting them in the high Commiſſion upon that extorted, and ſelfe-accuſing oath <hi>Ex offi<g ref="char:EOLhyphen"/>cio,</hi> framing divers Articles againſt them con<g ref="char:EOLhyphen"/>taining divers charges of ſeverall natures, ma<g ref="char:EOLhyphen"/>king your Petitioners a prey to Officers, and though wronged, yet left at laſt without re<g ref="char:EOLhyphen"/>liefe; for although ſome of your Petitioners after ſentence of Excommunication againſt them, (with much difficulty) have obtained their abſolution, and delivered the ſame to the Curate or Clerke, yet the ſaid Doctor getting knowledge thereof, hath not forborne to publiſh the Excommunication, and forbid<g ref="char:EOLhyphen"/>den the Curate to declare the Abſolution, and ſuch is his power and countenance in the high Commiſſion, and other Eccleſiaſticall Courts, that he daily gets heart and incou<g ref="char:EOLhyphen"/>ragement to vex your Petitioners in theſe
+<pb n="11" facs="tcp:111825:7"/> Courts, glorying and rejoycing in his vexati<g ref="char:EOLhyphen"/>on of his Pariſhioners, who are committed to him for better purpoſes.</p>
+            <p n="6">6. The ſaid Doctor appropriateth to him<g ref="char:EOLhyphen"/>ſelfe divers Pews in the Chancell, and hath cauſed divers of the moſt ancient Pewes to be cut up, to make way, and open paſſage to the ſaid Altar, and although the Petitioners to prevent the ſaid diſturbance, procured the Chancellours command for ſtay of his in<g ref="char:EOLhyphen"/>tended worke, yet preſuming upon his favour in thoſe Eceleſiaſticall courts, with a high hand he proceeded, and did finiſh his worke; he appropriateth to himſelfe the upper part of the North and South Iles of the Church for buriall, digging Vaults, and taking great ſummes of money, of ſome more, of ſome leſſe, and of whom he pleaſeth, for their bu<g ref="char:EOLhyphen"/>riall there, making promiſes and warrantees to defend them againſt the pariſh, or whom<g ref="char:EOLhyphen"/>ſoever ſhould gainſay; he hath cut, and cau<g ref="char:EOLhyphen"/>ſed to be cut and defaced the Table of Rates for Burials and Weddings, and other Pariſh duties, uſually hanging in the Veſtry, &amp; ſince the defacing thereof, he exacteth extraordina<g ref="char:EOLhyphen"/>ry ſums of money for burial both of ſtrangers
+<pb n="12" facs="tcp:111825:8"/> and pariſhioners, and hath cauſed their Veſtry booke to be carried into the high Commiſſi<g ref="char:EOLhyphen"/>on Court, where it hath remained three or foure yeares, which booke he hath both en<g ref="char:EOLhyphen"/>terlined at his pleaſure, and croſſed out his own name ſubſcribed to certaine Orders, and hath gotten into his poſſeſſion, and wrong<g ref="char:EOLhyphen"/>fully detaines from the Pariſh their evidences and writings which belong not to him, to the great detriment of the pariſhioners, and diſorderly carriage of the Pariſh affaires, and he forbiddeth and putteth downe their Ve<g ref="char:EOLhyphen"/>ſtry-meetings.</p>
+            <p n="7">7. The turbulency and malignity of this mans ſpirit appeareth alſo in this, that he diſ<g ref="char:EOLhyphen"/>gracefully &amp; contemptuouſly aſperſeth thoſe perſons of qualitie and worth, which at this time ſerve the Common-wealth in the Ho<g ref="char:EOLhyphen"/>nourable houſe of Parliament, as men choſen for the Knights and Burgeſſes of this City, affirming that the City had choſen <hi>Soame</hi> be<g ref="char:EOLhyphen"/>cauſe he would not pay Ship-money, <hi>Vaſſall</hi> becauſe he would not pay the King his cu<g ref="char:EOLhyphen"/>ſtomes, <hi>Penington</hi> becauſe he entertaines ſi<g ref="char:EOLhyphen"/>lenc'd Miniſters, and <hi>Cradocke</hi> to ſend them o<g ref="char:EOLhyphen"/>ver into <hi>New England.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:111825:8"/>Now foraſmuch as the rehearſed innova<g ref="char:EOLhyphen"/>tions, uſurpations, vexations, and wrongs tend to the high diſhonour of God, blemiſh and ſcandall to the Religion eſtabliſhed, and the peaceable government of the Church, as alſo to the great diſtraction and diſturbance of the Petitioners in the ſervice of God, cau<g ref="char:EOLhyphen"/>ſing great diſorder, trouble, and charge to the Petitioners, and the griefe of their hearts, in that they cannot injoy the Ordinances of God in their purity, without the interpoſing and mingling of ſuch Ceremonies introdu<g ref="char:EOLhyphen"/>ced by the ſaid Doctor,</p>
+            <p>The Petitioners humbly beſeech this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly to examine their abuſes, and to take ſome courſe for their Reformati<g ref="char:EOLhyphen"/>on, that your Petitioners may as their Prede<g ref="char:EOLhyphen"/>ceſſors and Anceſtours have done ſerve God in quiet, and enjoy themſelves and their owne peace, being ſet free from the oppreſſi<g ref="char:EOLhyphen"/>ons and troubles, wherewith the ſaid Doctor hath made them too well acquainted; And that the Lands and rents may be injoyed and imployed to the good and religious uſes in<g ref="char:EOLhyphen"/>tended by the firſt Donor, and ſince confir<g ref="char:EOLhyphen"/>med
+<pb n="14" facs="tcp:111825:9"/> by the Decree of the Honourable Court of Chancerie,</p>
+            <p>And your Petitioners as in duty bound ſhall continue their prayers for the happy ſucceſſe of your great deſignes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
